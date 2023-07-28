@@ -1,0 +1,76 @@
+.main{
+    width: 40%;
+    box-shadow: 2px 2px 2px 2px silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+
+h2{
+    font-family: 'Cairo', sans-serif;
+}
+
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #84b9eb;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    transition: 0.4s ease;
+    font-family: 'Cairo', sans-serif;
+
+}
+
+button:hover{
+    background: #2485E2;
+    color: white;
+}
+
+
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color:  #f3b079;
+    font-family: 'Cairo', sans-serif;
+    color: white;
+    transition: 0.4s ease;
+}
+
+label:hover{
+    background: #f19d58;
+    color: black;
+}
+
+a{
+   text-decoration: none;
+   font-size: 20px;
+   color: tomato;
+   transition: 0.4s ease;
+   cursor: pointer;
+   font-family: 'Cairo', sans-serif;
+   font-weight: bold;
+}
+
+a:hover{
+    color: #2485E2;
+}
+
+p{
+    margin-top: 40px;
+    
+}
+
